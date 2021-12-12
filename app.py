@@ -1,5 +1,5 @@
 from flask import Flask
-
+from youtube_dislike_base.__init__ import *
 app = Flask(__name__)
 
 
